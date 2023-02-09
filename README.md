@@ -13,8 +13,8 @@ yarn
 
 ```bash
 NODE_ENV=development
-API_DEV=
-API_PROD=
+NEXT_PUBLIC_LOG_LEVEL=debug
+NEXT_PUBLIC_API_URL=your-server-host
 ```
 
 ### Last, run the development server:
